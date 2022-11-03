@@ -7,4 +7,4 @@
 - ⚡ Interest: learn back-end with NodeJS and MySQL / MongoDB / Firebase;
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmancano&layout=compact)]
+(https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmancano&layout=compact)
