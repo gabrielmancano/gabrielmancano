@@ -6,3 +6,5 @@
 - 📫 How to reach me: https://www.linkedin.com/in/gabriel-man%C3%A7ano-b19989227/ or gabrielmancano@yahoo.com;
 - ⚡ Interest: learn back-end with NodeJS and MySQL / MongoDB / Firebase;
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmancano&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
